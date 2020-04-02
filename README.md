@@ -21,6 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 [Demo](https://pm-pricing-blond.now.sh/)
 
+[![Screenshot-from-2020-04-02-22-03-43.png](https://i.postimg.cc/6516pNjk/Screenshot-from-2020-04-02-22-03-43.png)](https://postimg.cc/vcfw0Cdh)
+
 ### To be fixed: 
 
 - Issue while developing with server side rendering and styled-components. https://styled-components.com/docs/advanced#server-side-rendering
