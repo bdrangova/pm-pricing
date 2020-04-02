@@ -19,7 +19,7 @@ yarn start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-[Demo](https://pm-pricing-blond.now.sh/)
+[Demo](https://pm-pricing.bdrangova.now.sh/)
 
 [![Screenshot-from-2020-04-02-22-03-43.png](https://i.postimg.cc/6516pNjk/Screenshot-from-2020-04-02-22-03-43.png)](https://postimg.cc/vcfw0Cdh)
 
